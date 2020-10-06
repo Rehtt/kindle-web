@@ -2,4 +2,4 @@
 kindle网页时钟
 
 效果：[1](http://clock.rehtt.com)  [2](http://clock.rehtt.com/?id=qwe)
-![](1.jpg)
+![](1 (2).jpg)
